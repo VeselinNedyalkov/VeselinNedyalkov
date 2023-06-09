@@ -2,11 +2,15 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me:
--  **vnedyalkov.85@yahoo.com**
+📫 How to reach me:
+<p> **vnedyalkov.85@yahoo.com**</p>
 <p align="left">
--<a href="https://linkedin.com/in/https://www.linkedin.com/in/veselin-nedyalkov-678756260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veselin-nedyalkov-678756260/" height="30" width="40"/></a>
+<p>
+ -<a href="https://linkedin.com/in/https://www.linkedin.com/in/veselin-nedyalkov-678756260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veselin-nedyalkov-678756260/" height="30" width="40"/></a>
+</p>
+<p>
 -<a href="https://fb.com/https://www.facebook.com/veso.nedyalkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/veso.nedyalkov" height="30" width="40" /></a>
+</p>
 </p>
 
 <p align="left">
