@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm -=Veso=- ,a guy who want to keep growing in the world of programing !</h1>
+<h1 align="center">Hello👋 good people of github </h1>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -6,7 +6,7 @@
 <p> **vnedyalkov.85@yahoo.com**</p>
 <p align="left">
 <p>
- -<a href="https://linkedin.com/in/https://www.linkedin.com/in/veselin-nedyalkov-678756260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veselin-nedyalkov-678756260/" height="30" width="40"/></a>
+ -<a href="linkedin.com/in/veselin-nedyalkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veselin-nedyalkov-678756260/" height="30" width="40"/></a>
 </p>
 <p>
 -<a href="https://fb.com/https://www.facebook.com/veso.nedyalkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/veso.nedyalkov" height="30" width="40" /></a>
