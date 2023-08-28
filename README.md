@@ -6,7 +6,7 @@
 <p> **vnedyalkov.85@yahoo.com**</p>
 <p align="left">
 <p>
- -<a href="www.linkedin.com/in/veselin-nedyalkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/veselin-nedyalkov" height="30" width="40"/></a>
+ -<a href="[www.linkedin.com/in/veselin-nedyalkov](https://www.linkedin.com/in/veselin-nedyalkov/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/veselin-nedyalko](https://www.linkedin.com/in/veselin-nedyalkov/)v" height="30" width="40"/></a>
 </p>
 <p>
 -<a href="https://fb.com/https://www.facebook.com/veso.nedyalkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/veso.nedyalkov" height="30" width="40" /></a>
