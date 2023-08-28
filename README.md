@@ -9,7 +9,7 @@
  -<a href="https://www.linkedin.com/in/veselin-nedyalkov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veselin-nedyalkov/" height="30" width="40"/></a>
 </p>
 <p>
--<a href="https://fb.com/https://www.facebook.com/veso.nedyalkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/veso.nedyalkov" height="30" width="40" /></a>
+-<a href="https://www.facebook.com/Veso.Nedyalkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/veso.nedyalkov" height="30" width="40" /></a>
 </p>
 </p>
 
