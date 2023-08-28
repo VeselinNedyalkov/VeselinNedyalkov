@@ -1,9 +1,8 @@
 <h1 align="center">Hello👋 good people of github </h1>
 
 
-<h3 align="left">Connect with me:</h3>
 📫 How to reach me:
-<p> **vnedyalkov.85@yahoo.com**</p>
+<p align="left"> **vnedyalkov.85@yahoo.com**</p>
 <p align="left">
 
 
